@@ -15,6 +15,7 @@ Welcome to the **BITS Pilani M.Tech (Software Engineering) 2025-2026 Repository*
 │   ├── Book1.pdf
 │   ├── Book2.pdf
 │   └── ...
+├── important_links.md
 └── README.md
 ```
 
@@ -23,3 +24,9 @@ Welcome to the **BITS Pilani M.Tech (Software Engineering) 2025-2026 Repository*
 ## Rule
 
 - Do not upload **PPTs**. You can find them on [Taxila](https://taxila-aws.bits-pilani.ac.in/my/).
+
+---
+
+## Additional Resources
+
+For important links, refer to [Important Links](important_links.md).
