@@ -7,13 +7,25 @@ Welcome to the **BITS Pilani M.Tech (Software Engineering) 2025-2026 Repository*
 ## 📂 Folder Structure
 
 ```plaintext
-├── Subject1
-│   ├── Book1.pdf
-│   ├── Book2.pdf
+├── Semester1
+│   ├── Subject1
+│   │   ├── Book1.pdf
+│   │   ├── Book2.pdf
+│   │   └── ...
+│   ├── Subject2
+│   │   ├── Book1.pdf
+│   │   ├── Book2.pdf
+│   │   └── ...
 │   └── ...
-├── Subject2
-│   ├── Book1.pdf
-│   ├── Book2.pdf
+├── Semester2
+│   ├── Subject1
+│   │   ├── Book1.pdf
+│   │   ├── Book2.pdf
+│   │   └── ...
+│   ├── Subject2
+│   │   ├── Book1.pdf
+│   │   ├── Book2.pdf
+│   │   └── ...
 │   └── ...
 ├── important_links.md
 └── README.md
