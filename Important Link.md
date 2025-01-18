@@ -9,7 +9,7 @@ Here is a collection of essential links for the BITS Pilani M.Tech (Software Eng
 - **ERP URL**: [https://sis.erp.bits-pilani.ac.in/psc/sisprd/EMPLOYEE/SA/c/NUI_FRAMEWORK.PT_LANDINGPAGE.GBL](https://sis.erp.bits-pilani.ac.in/psc/sisprd/EMPLOYEE/SA/c/NUI_FRAMEWORK.PT_LANDINGPAGE.GBL)
 
 ## General Orientation
-- **Important Information (Google Spreadsheet)**: [https://docs.google.com/spreadsheets/d/1DELToPtJYcRntT23-4SqSGv8Uej4P9D1/edit?gid=1395733038#gid=1395733038](https://docs.google.com/spreadsheets/d/1DELToPtJYcRntT23-4SqSGv8Uej4P9D1/edit?gid=1395733038#gid=1395733038)
+- **Exam Dates (Google Spreadsheet)**: [https://docs.google.com/spreadsheets/d/1DELToPtJYcRntT23-4SqSGv8Uej4P9D1/edit?gid=1395733038#gid=1395733038](https://docs.google.com/spreadsheets/d/1DELToPtJYcRntT23-4SqSGv8Uej4P9D1/edit?gid=1395733038#gid=1395733038)
 
 ## Technical Support
 For any technical support or queries, please contact:
